@@ -1,11 +1,6 @@
 <div align="center">
 
-<sub><strong>ZayVionx</strong> README.md /</sub>
-
-<br />
-<br />
-
-## Hello, World
+<h1>Hello! &#27426;&#36814;&#22823;&#23478;&#26469;&#21040; ZayVionx &#30340;&#20027;&#39029;</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=17FF00&center=true&vCenter=true&width=560&lines=printf(%22Hello%2C+World%22)%3B;Learning+frontend+development;Building+GuiCanvas+Studio" alt="Typing intro" />
 
@@ -29,15 +24,6 @@
 
 ---
 
-## GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZayVionx&show_icons=true&hide_border=true&theme=github_dark&title_color=17ff00&icon_color=17ff00&text_color=c9d1d9&bg_color=0b0f14" alt="ZayVionx GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayVionx&layout=compact&hide_border=true&theme=github_dark&title_color=17ff00&text_color=c9d1d9&bg_color=0b0f14" alt="ZayVionx top languages" />
-</p>
-
----
-
 ## Featured work
 
 | Project | Focus |
@@ -49,14 +35,16 @@
 
 ## Contact
 
-<p>
-  <a href="https://github.com/ZayVionx">
-    <img src="https://img.shields.io/badge/GitHub-ZayVionx-181b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:zhujinyuan818@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zhujinyuan818%40gmail.com-181b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="right"><strong>QQ Email:</strong></td>
+    <td align="left"><a href="mailto:3102196558@qq.com">3102196558@qq.com</a></td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Gmail:</strong></td>
+    <td align="left"><a href="mailto:zhujinyuan818@gmail.com">zhujinyuan818@gmail.com</a></td>
+  </tr>
+</table>
 
 ---
 
