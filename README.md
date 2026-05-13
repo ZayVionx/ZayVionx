@@ -14,13 +14,9 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="58%">
+## `interface builder / product engineer`
 
-### `interface builder / product engineer`
-
-I build sharp, usable interfaces with a focus on visual tooling, editor workflows, and interaction detail.
+I build sharp and usable interfaces, with a focus on visual tools, editor workflows, and interaction details.
 
 Right now I am working on **GuiCanvas Studio**, a visual editor for LVGL-style UI creation. The goal is to make embedded interface design feel closer to modern product design tools: fast, visual, and precise.
 
@@ -33,10 +29,7 @@ const zayvionx = {
 };
 ```
 
-    </td>
-    <td width="42%">
-
-### `signal`
+## `signal`
 
 ```txt
 status      designing + building
@@ -45,13 +38,9 @@ style       dark canvas, neon feedback, precise motion
 goal        turn complex workflows into clear surfaces
 ```
 
-    </td>
-  </tr>
-</table>
-
 ---
 
-### `toolbox`
+## `toolbox`
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-0b0f14?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
@@ -66,32 +55,53 @@ goal        turn complex workflows into clear surfaces
 
 ---
 
-### `featured work`
+## `featured work`
 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **GuiCanvas Studio** | A visual studio for designing LVGL interface workflows with a polished web editor shell. | React, TypeScript, Vite, LVGL, WASM |
-| **Interaction Experiments** | Cursor, magnetic focus, scroll-reactive motion, and interface feedback prototypes. | CSS, React, animation systems |
+| **Interaction Experiments** | Cursor systems, magnetic focus, scroll-reactive motion, and interface feedback prototypes. | CSS, React, animation systems |
 | **Embedded UI Research** | Exploring how desktop-grade editor patterns can help embedded GUI development feel faster. | LVGL, C/C++, tooling |
 
 ---
 
-### `github pulse`
+## `github pulse`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ZayVionx&show_icons=true&hide_border=true&theme=github_dark&title_color=17ff00&icon_color=17ff00&text_color=c9d1d9&bg_color=0b0f14" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayVionx&layout=compact&hide_border=true&theme=github_dark&title_color=17ff00&text_color=c9d1d9&bg_color=0b0f14" alt="Top languages" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ZayVionx&show_icons=true&hide_border=true&theme=github_dark&title_color=17ff00&icon_color=17ff00&text_color=c9d1d9&bg_color=0b0f14"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=ZayVionx&show_icons=true&hide_border=true&title_color=0f7b00&icon_color=0f7b00"
+    alt="ZayVionx GitHub stats"
+  />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayVionx&layout=compact&hide_border=true&theme=github_dark&title_color=17ff00&text_color=c9d1d9&bg_color=0b0f14"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayVionx&layout=compact&hide_border=true&title_color=0f7b00"
+    alt="ZayVionx top languages"
+  />
+</picture>
 
 </div>
 
 ---
 
-### `current direction`
+## `current direction`
 
 - Designing developer-facing tools with a stronger visual identity.
-- Making editor interactions feel tactile: hover, focus, scroll, cursor, and motion.
-- Turning LVGL workflows into a cleaner, more approachable studio experience.
+- Making editor interactions feel more tactile: hover, focus, scroll, cursor, and motion.
+- Turning LVGL workflows into a cleaner and more studio-like experience.
 
 ---
 
