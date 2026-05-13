@@ -26,10 +26,13 @@
 
 ## Featured work
 
-| Project | Focus |
-| --- | --- |
-| **GuiCanvas Studio** <br /><img src="https://img.shields.io/badge/In%20development-ff4b3f?style=flat-square" alt="In development" /> | My current main project: a visual editor for LVGL-style UI creation |
-| **Learning notes** | Frontend practice, interaction experiments, and editor workflow exploration |
+<a href="https://github.com/ZayVionx/GuiCanvas_Studio">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=GuiCanvas%20Studio&text2=In%20development%20-%20visual%20editor%20for%20LVGL-style%20UI%20creation&width=860&height=210" alt="GuiCanvas Studio" />
+</a>
+
+<br />
+
+<sub>Current main project. I am learning frontend development while building this editor step by step.</sub>
 
 ---
 
