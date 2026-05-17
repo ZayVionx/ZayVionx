@@ -4,7 +4,7 @@
   <img src="./assets/github-banner.png" alt="GuiCanvas Studio" width="65%" />
 </a>
 
-Cup of tea? ☕ Welcome to my personal website 👋👋
+☕ Welcome to my personal website 👋👋
 
 ## Social media 🧃
 
