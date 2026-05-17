@@ -1,7 +1,7 @@
 ## Hello, this is ZayVionx.
 
 <a href="https://guicanvas.com">
-  <img src="./assets/github-banner.png" alt="GuiCanvas Studio" width="100%" />
+  <img src="./assets/github-banner.png" alt="GuiCanvas Studio" width="65%" />
 </a>
 
 Cup of tea? ☕ Welcome to my personal website 👋👋
