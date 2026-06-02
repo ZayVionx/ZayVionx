@@ -9,4 +9,3 @@
 ## Social media 🧃
 
 - View my best website project ✨ [GuiCanvas Studio](https://guicanvas.com)
-- Contact me 📮 [Gmail](mailto:zhujinyuan818@gmail.com)
